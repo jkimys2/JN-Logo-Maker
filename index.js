@@ -6,7 +6,7 @@ const fs = require("fs");
 const questions = [
   {
     type: "input",
-    name: "letter",
+    name: "text",
     message: "Please enter 1-3 characters for your logo!",
     validate: (nameInput) => {
       if (nameInput) {
@@ -19,7 +19,7 @@ const questions = [
   },
   {
     type: "input",
-    name: "letterColor",
+    name: "textColor",
     message: "Enter a text color",
     validate: (nameInput) => {
       if (nameInput) {
