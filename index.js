@@ -57,6 +57,7 @@ function writeToFile(data) {
   fs.writeFile("./output/logo.svg", data, (err) => {
     if (err) {
       console.log(err);
+      return;
     } else {
       console.log("Generated logo.svg in the output folder!");
     }
