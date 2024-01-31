@@ -60,9 +60,12 @@ function writeToFile(data) {
       console.log("Generated logo.svg in the output folder!");
     }
   });
-}
+};
 
 // function to initialize app
 function init() {
   return inquirer.prompt(questions);
-}
+};
+
+// function call to initialize app
+init().then((data) => )
