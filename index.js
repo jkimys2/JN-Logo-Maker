@@ -50,3 +50,19 @@ const questions = [
     },
   },
 ];
+
+// function to create a new file with logo
+function writeToFile(data) {
+  fs.writeFile("./output/logo.svg", data, (err) => {
+    if (err) {
+      console.log(err);
+    } else {
+      console.log("Generated logo.svg in the output folder!");
+    }
+  });
+}
+
+// function to initialize app
+function init() {
+  return inquirer.prompt(questions);
+}
