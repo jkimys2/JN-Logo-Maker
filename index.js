@@ -1,6 +1,7 @@
 // packages required for this application
 const inquirer = require("inquirer");
 const fs = require("fs");
+const renderShape = require("./lib/renderShape");
 
 // array of questions for user input
 const questions = [
@@ -60,12 +61,21 @@ function writeToFile(data) {
       console.log("Generated logo.svg in the output folder!");
     }
   });
-};
+}
 
 // function to initialize app
 function init() {
   return inquirer.prompt(questions);
-};
+}
 
 // function call to initialize app
-init().then((data) => )
+init()
+  .then((data) => {
+    return renderShape(data);
+  })
+  .then((data) => {
+    return writeToFile(data);
+  })
+  .catch((err) => {
+    console.log(err);
+  });
