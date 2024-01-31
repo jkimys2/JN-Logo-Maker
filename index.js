@@ -21,7 +21,7 @@ const questions = [
   {
     type: "input",
     name: "textColor",
-    message: "Enter a text color",
+    message: "Enter a text color or hexadecimal number:",
     validate: (nameInput) => {
       if (nameInput) {
         return true;
@@ -40,7 +40,7 @@ const questions = [
   {
     type: "input",
     name: "shapeColor",
-    message: "Enter a color for your logo shape!",
+    message: "Enter a color (or hexadecimal number) for your logo shape!",
     validate: (nameInput) => {
       if (nameInput) {
         return true;
