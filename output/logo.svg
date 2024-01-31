@@ -1,4 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="300" height="200">
-    <rect x="50" y="0" width="120" height="120" fill="black"/>
-      <text x="110" y="80" font-size="50" text-anchor="middle" fill="white">HEY</text>
+    <polygon points="60 0, 120 100, 0 100" fill="black"/>
+      <text x="60" y="85" font-size="40" text-anchor="middle" fill="blue">Y</text>
     </svg>
