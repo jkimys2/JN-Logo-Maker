@@ -37,7 +37,7 @@ In order to make your own logo, you will need the following:
 
 ## Usage
 
-Once you have the files in VS Code, you will need to install the dependencies (Inquirer and Jest). Once that is completed, you have the option to run tests on the shape classes. You can do so by opening in the integrated terminal and typing ```npm run test```. Then the terminal will state whether the tests have failed or passed. When you run the shape class tests, it will state that all 3 tests have passed!
+Once you have the files in VS Code, you will need to install the dependencies (Inquirer for creating the logo and Jest for testing). Once that is completed, you have the option to run tests on the shape classes. You can do so by opening the integrated terminal and typing ```npm run test```. Then the terminal will state whether the tests have failed or passed. When you run the shape class tests, it will state that all 3 tests have passed!
 
 In order to make your own logo, you will need to open the integrated terminal. From there, you will type ```node index.js```. Once you do so, it will ask you a series of questions. You will be able to choose the text you want in the logo, the color of that text, the shape of your logo, as well as the color of your logo! Once you go through all of the prompts, your new logo will be created in the output folder!
 
