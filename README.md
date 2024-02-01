@@ -45,7 +45,7 @@ Here is a snippet on how this logo maker works:
 
 ![gif](./assets/logo-maker.gif)
 
-You can view the full demonstration [here](https://drive.google.com/file/d/170Yp3-_wjRW9DjXVkNXwnosCIPETpBgE/view)!
+You can view the full demonstration [here](https://drive.google.com/file/d/14asAfEvsOS4YVkq9Y0PFY3WUeTzmDaSC/view)!
 
 
 ## Credits
