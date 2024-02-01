@@ -45,7 +45,7 @@ Here is a snippet on how this logo maker works:
 
 ![gif](./assets/logo-maker.gif)
 
-You can view the full demonstration here: https://drive.google.com/file/d/170Yp3-_wjRW9DjXVkNXwnosCIPETpBgE/view
+You can view the full demonstration [here](https://drive.google.com/file/d/170Yp3-_wjRW9DjXVkNXwnosCIPETpBgE/view)!
 
 
 ## Credits
@@ -55,4 +55,4 @@ Thank you Andrew B., Chris B., and Michael H. for all your help! 😊👍
 
 ## Links
 
-GitHub Repository: https://github.com/jkimys2/JN-Logo-Maker
+[GitHub Repository](https://github.com/jkimys2/JN-Logo-Maker)
