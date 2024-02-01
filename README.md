@@ -43,7 +43,9 @@ In order to make your own logo, you will need to open the integrated terminal. F
 
 Here is a snippet on how this logo maker works:
 
-You can view the full demonstration here:
+![gif](./assets/logo-maker.gif)
+
+You can view the full demonstration here: https://drive.google.com/file/d/170Yp3-_wjRW9DjXVkNXwnosCIPETpBgE/view
 
 
 ## Credits
@@ -53,4 +55,4 @@ Thank you Andrew B., Chris B., and Michael H. for all your help! 😊👍
 
 ## Links
 
-GitHub Repository:
+GitHub Repository: https://github.com/jkimys2/JN-Logo-Maker
